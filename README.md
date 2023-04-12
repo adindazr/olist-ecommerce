@@ -18,3 +18,7 @@ There are 9 table in the dataset, which are (1) Olist Customer, (2) Olist Geoloc
   You can click link here to go to the tableau dashboard.
   
   https://public.tableau.com/views/OlistE-CommerceSalesDashboard/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link 
+  
+  ## Findings
+  Read the full report here:
+  https://medium.com/@adindazr/what-olist-e-commerce-data-tells-us-1f4fa28e466d
