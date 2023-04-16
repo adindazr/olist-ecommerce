@@ -22,3 +22,6 @@ There are 9 table in the database, which are (1) Olist Customer, (2) Olist Geolo
   ## Findings
   Read the full report here:
   https://medium.com/@adindazr/what-olist-e-commerce-data-tells-us-1f4fa28e466d
+  
+  ## Video
+  Project : https://youtu.be/KsPmYFbqgQ0
