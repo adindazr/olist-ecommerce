@@ -9,7 +9,7 @@ There are 9 table in the database, which are (1) Olist Customer, (2) Olist Geolo
 ## What We Do
 1. Accesing the database to retrieve the required data
 
-  Using SQLite Studio, we fetch the necessary data across tables. The final dataset is including 11 columns: `order_id` , `customer_id`, `category`, `price`, `payment_type`, `time_purchased`, and `review_score`, with 115.723 entries.
+  Using SQLite Studio, we fetch the necessary data across tables. The final dataset is including 11 columns: `order_id` , `customer_id`, `category`, `price`, `payment_type`, `city`, `state`,  `time_purchased`, `status` , and `review_score`, with 115.723 entries.
   
 2. Cleaning and analyzing the data
   The task is accomplished using Jupyter Notebook and Google Colab, in Python language programming. You can access the attached file here (olist-final-project.ipynb).
